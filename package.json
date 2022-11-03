@@ -5,21 +5,20 @@
   "main": "server.js",
   "scripts": {
     "test": "jest",
-
     "start": "node server.js",
     "watch": "nodemon server.js",
     "seed": "node seeds/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/izabelacloud/Tech-Blog.git"
+    "url": "git+https://github.com/MartaS333/tech_blog_MVC.git"
   },
-  "author": "Izabela Petrovicova",
+  "author": "Marta Schwarz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/izabelacloud/Tech-Blog/issues"
+    "url": "https://github.com/MartaS333/tech_blog_MVC"
   },
-  "homepage": "https://github.com/izabelacloud/Tech-Blog#readme",
+  "homepage": "https://github.com/MartaS333/tech_blog_MVC",
   "dependencies": {
     "bcrypt": "^5.0.0",
     "connect-session-sequelize": "^6.1.1",
