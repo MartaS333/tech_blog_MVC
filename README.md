@@ -20,7 +20,7 @@ A CMS-style blog site similar to a Wordpress site, where developers can publish 
 ### Demo
 
 Video Demo [click here](https://drive.google.com/file/d/1822dSJB3VUvsT5AFMFmQccfgnrbluAFh/view)
-![Screenshot](https://github.com/MartaS333/ecommerce_backen_orm/blob/main/assets/screenshot.png)
+![Screenshot](https://github.com/MartaS333/tech_blog_MVC/blob/main/assets/tech-blog.png)
 
 ### Installation
 
